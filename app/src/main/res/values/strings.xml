@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">UnitCalculate</string>
+    <string name="button_convert">Calculate</string>
+    <string-array name="Units">
+        <item>Length</item>
+        <item>Mass</item>
+        <item>Volume</item>
+    </string-array>
+
+    <string-array name="lengthCategory">
+        <item>ဆံချည်(Sanchi)</item>
+        <item>နှမ်း(Hnan)</item>
+        <item>မုယော(Mayaw)</item>
+        <item>လက်သစ်(LetThit)</item>
+        <item>မိုက်(Maik)</item>
+        <item>ထွာ(Htwa)</item>
+        <item>တောင်(Taung)</item>
+        <item>လံ(Lan)</item>
+        <item>တာ(Ta)</item>
+        <item>ဥသဘ(Out-Thaba)</item>
+        <item>ကောသ(Kawtha)</item>
+        <item>ဂါ၀ုတ်(Ga-Wout)</item>
+        <item>ယူဇနာ(Yuzana)</item>
+        <item>µm</item>
+        <item>mm</item>
+        <item>cm</item>
+        <item>m</item>
+        <item>km</item>
+        <item>in</item>
+        <item>ft</item>
+        <item>mile</item>
+        <item>yard</item>
+    </string-array>
+
+    <string-array name="lengthUnit">
+        <item>µm</item>
+        <item>mm</item>
+        <item>cm</item>
+        <item>m</item>
+        <item>km</item>
+        <item>in</item>
+        <item>ft</item>
+        <item>mile</item>
+        <item>yard</item>
+        <item>ဆံချည်(Sanchi)</item>
+        <item>နှမ်း(Hnan)</item>
+        <item>မုယော(Mayaw)</item>
+        <item>လက်သစ်(LetThit)</item>
+        <item>မိုက်(Maik)</item>
+        <item>ထွာ(Htwa)</item>
+        <item>တောင်(Taung)</item>
+        <item>လံ(Lan)</item>
+        <item>တာ(Ta)</item>
+        <item>ဥသဘ(Out-Thaba)</item>
+        <item>ကောသ(Kawtha)</item>
+        <item>ဂါ၀ုတ်(Ga-Wout)</item>
+        <item>ယူဇနာ(Yuzana)</item>
+    </string-array>
+
+    <string-array name="massCategory">
+        <item>ရွေးလေး(YwayLay)</item>
+        <item>ရွေးကြီး(YwayGyi)</item>
+        <item>ပဲသား(Petha)</item>
+        <item>မူးသား(Mutha)</item>
+        <item>မတ်သား(Matha)</item>
+        <item>ငါးမူးသား(NgaMutha)</item>
+        <item>ကျပ်သား(Kyattha)</item>
+        <item>အဝက်သား(Awettha)</item>
+        <item>အစိတ်သား(Aseittha)</item>
+        <item>ငါးဆယ်သား(Ngasetha)</item>
+        <item>ပိဿာ(Peittha)</item>
+        <item>အချိန်တစ်ရာ(AcheinTaya)</item>
+        <item>mg</item>
+        <item>g</item>
+        <item>kg</item>
+        <item>oz</item>
+        <item>lb</item>
+    </string-array>
+
+    <string-array name="massUnit">
+
+        <item>mg</item>
+        <item>g</item>
+        <item>kg</item>
+        <item>oz</item>
+        <item>lb</item>
+        <item>ရွေးလေး(YwayLay)</item>
+        <item>ရွေးကြီး(YwayGyi)</item>
+        <item>ပဲသား(Petha)</item>
+        <item>မူးသား(Mutha)</item>
+        <item>မတ်သား(Matha)</item>
+        <item>ငါးမူးသား(NgaMutha)</item>
+        <item>ကျပ်သား(Kyattha)</item>
+        <item>အဝက်သား(Awettha)</item>
+        <item>အစိတ်သား(Aseittha)</item>
+        <item>ငါးဆယ်သား(Ngasetha)</item>
+        <item>ပိဿာ(Peittha)</item>
+        <item>အချိန်တစ်ရာ(AcheinTaya)</item>
+
+    </string-array>
+
+    <string-array name="volumeCategory">
+        <item>လမု(Lamyu)</item>
+        <item>လမျက်(Lamyet)</item>
+        <item>လမယ်(Lame)</item>
+        <item>စလယ်(Sale)</item>
+        <item>ခွက်(Hkwet)</item>
+        <item>ပြည်(Pyi)</item>
+        <item>စိတ်(Seit)</item>
+        <item>ခွဲ(Hkwe)</item>
+        <item>တင်း(Tin)</item>
+        <item>ml</item>
+        <item>litre</item>
+        <item>oz</item>
+        <item>qt</item>
+        <item>gallons</item>
+
+    </string-array>
+
+    <string-array name="volumeUnit">
+        <item>ml</item>
+        <item>litre</item>
+        <item>oz</item>
+        <item>qt</item>
+        <item>gallons</item>
+        <item>လမု(Lamyu)</item>
+        <item>လမျက်(Lamyet)</item>
+        <item>လမယ်(Lame)</item>
+        <item>စလယ်(Sale)</item>
+        <item>ခွက်(Hkwet)</item>
+        <item>ပြည်(Pyi)</item>
+        <item>စိတ်(Seit)</item>
+        <item>ခွဲ(Hkwe)</item>
+        <item>တင်း(Tin)</item>
+    </string-array>
+</resources>
